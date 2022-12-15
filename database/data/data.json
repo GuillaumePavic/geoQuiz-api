@@ -1,0 +1,1381 @@
+[
+    {
+        "country": "Afghanistan",
+        "full_name": "République islamique d'Afghanistan",
+        "capital": "Kaboul",
+        "continent_id": 3,
+        "level_id": 1
+    },
+    {
+        "country": "Afrique du Sud",
+        "full_name": "République d'Afrique du Sud",
+        "capital": "Prétoria",
+        "continent_id": 1,
+        "level_id": 2
+    },
+    {
+        "country": "Albanie",
+        "full_name": "République d'Albanie",
+        "capital": "Tirana",
+        "continent_id": 4,
+        "level_id": 3
+    },
+    {
+        "country": "Algérie",
+        "full_name": "République algérienne démocratique et populaire",
+        "capital": "Alger",
+        "continent_id": 1,
+        "level_id": 1
+    },
+    {
+        "country": "Allemagne",
+        "full_name": "République fédérale d'Allemagne",
+        "capital": "Berlin",
+        "continent_id": 4,
+        "level_id": 1
+    },
+    {
+        "country": "Andorre",
+        "full_name": "Principauté d'Andorre",
+        "capital": "Andorre-la-Vieille",
+        "continent_id": 4,
+        "level_id": 2
+    },
+    {
+        "country": "Angola",
+        "full_name": "République d'Angola",
+        "capital": "Luanda",
+        "continent_id": 1,
+        "level_id": 3
+    },
+    {
+        "country": "Antigua-et-Barbuda",
+        "full_name": "Antigua-et-Barbuda",
+        "capital": "Saint John's",
+        "continent_id": 2,
+        "level_id": 3
+    },
+    {
+        "country": "Arabie saoudite",
+        "full_name": "Royaume d'Arabie saoudite",
+        "capital": "Riyad",
+        "continent_id": 3,
+        "level_id": 2
+    },
+    {
+        "country": "Argentine",
+        "full_name": "République argentine",
+        "capital": "Buenos Aires",
+        "continent_id": 2,
+        "level_id": 1
+    },
+    {
+        "country": "Arménie",
+        "full_name": "République d'Arménie",
+        "capital": "Erevan",
+        "continent_id": 3,
+        "level_id": 2
+    },
+    {
+        "country": "Australie",
+        "full_name": "Commonwealth d'Australie",
+        "capital": "Canberra",
+        "continent_id": 3,
+        "level_id": 1
+    },
+    {
+        "country": "Autriche",
+        "full_name": "République d'Autriche",
+        "capital": "Vienne",
+        "continent_id": 4,
+        "level_id": 1
+    },
+    {
+        "country": "Azerbaïdjan",
+        "full_name": "République d'Azerbaïdjan",
+        "capital": "Bakou",
+        "continent_id": 3,
+        "level_id": 2
+    },
+    {
+        "country": "Bahamas",
+        "full_name": "Commonwealth des Bahamas",
+        "capital": "Nassau",
+        "continent_id": 2,
+        "level_id": 2
+    },
+    {
+        "country": "Bahreïn",
+        "full_name": "Royaume de Bahreïn",
+        "capital": "Manama",
+        "continent_id": 3,
+        "level_id": 3
+    },
+    {
+        "country": "Bangladesh",
+        "full_name": "République populaire du Bangladesh",
+        "capital": "Dacca",
+        "continent_id": 3,
+        "level_id": 2
+    },
+    {
+        "country": "Barbade",
+        "full_name": "Barbade",
+        "capital": "Bridgetown",
+        "continent_id": 2,
+        "level_id": 3
+    },
+    {
+        "country": "Belgique",
+        "full_name": "Royaume de Belgique",
+        "capital": "Bruxelles",
+        "continent_id": 4,
+        "level_id": 1
+    },
+    {
+        "country": "Bélize",
+        "full_name": "Bélize",
+        "capital": "Belmopan",
+        "continent_id": 2,
+        "level_id": 3
+    },
+    {
+        "country": "Bénin",
+        "full_name": "République du Bénin",
+        "capital": "Porto-Novo",
+        "continent_id": 1,
+        "level_id": 3
+    },
+    {
+        "country": "Bhoutan",
+        "full_name": "Royaume du Bhoutan",
+        "capital": "Thimphou",
+        "continent_id": 3,
+        "level_id": 2
+    },
+    {
+        "country": "Biélorussie",
+        "full_name": "République de Biélorussie",
+        "capital": "Minsk",
+        "continent_id": 4,
+        "level_id": 2
+    },
+    {
+        "country": "Birmanie",
+        "full_name": "République de l'Union de Birmanie",
+        "capital": "Naypyidaw",
+        "continent_id": 3,
+        "level_id": 3
+    },
+    {
+        "country": "Bolivie",
+        "full_name": "État plurinational de Bolivie",
+        "capital": "Sucre / La Paz",
+        "continent_id": 2,
+        "level_id": 2
+    },
+    {
+        "country": "Bosnie-Herzégovine",
+        "full_name": "Bosnie-Herzégovine",
+        "capital": "Sarajevo",
+        "continent_id": 4,
+        "level_id": 2
+    },
+    {
+        "country": "Botswana",
+        "full_name": "République du Botswana",
+        "capital": "Gaborone",
+        "continent_id": 1,
+        "level_id": 3
+    },
+    {
+        "country": "Brésil",
+        "full_name": "République fédérative du Brésil",
+        "capital": "Brasilia",
+        "continent_id": 2,
+        "level_id": 2
+    },
+    {
+        "country": "Brunei",
+        "full_name": "Brunei Darussalam",
+        "capital": "Bandar Seri Begawan",
+        "continent_id": 3,
+        "level_id": 3
+    },
+    {
+        "country": "Bulgarie",
+        "full_name": "République de Bulgarie",
+        "capital": "Sofia",
+        "continent_id": 4,
+        "level_id": 2
+    },
+    {
+        "country": "Burkina",
+        "full_name": "Burkina Faso",
+        "capital": "Ouagadougou",
+        "continent_id": 1,
+        "level_id": 2
+    },
+    {
+        "country": "Burundi",
+        "full_name": "République du Burundi",
+        "capital": "Gitega",
+        "continent_id": 1,
+        "level_id": 3
+    },
+    {
+        "country": "Cambodge",
+        "full_name": "Royaume du Cambodge",
+        "capital": "Phnom Penh",
+        "continent_id": 3,
+        "level_id": 3
+    },
+    {
+        "country": "Cameroun",
+        "full_name": "République du Cameroun",
+        "capital": "Yaoundé",
+        "continent_id": 1,
+        "level_id": 2
+    },
+    {
+        "country": "Canada",
+        "full_name": "Canada",
+        "capital": "Ottawa",
+        "continent_id": 2,
+        "level_id": 2
+    },
+    {
+        "country": "Cap-Vert",
+        "full_name": "République du Cap-Vert",
+        "capital": "Praia",
+        "continent_id": 1,
+        "level_id": 3
+    },
+    {
+        "country": "Centrafrique",
+        "full_name": "République centrafricaine",
+        "capital": "Bangui",
+        "continent_id": 1,
+        "level_id": 2
+    },
+    {
+        "country": "Chili",
+        "full_name": "République du Chili",
+        "capital": "Santiago",
+        "continent_id": 2,
+        "level_id": 2
+    },
+    {
+        "country": "Chine",
+        "full_name": "République populaire de Chine",
+        "capital": "Pékin",
+        "continent_id": 3,
+        "level_id": 1
+    },
+    {
+        "country": "Chypre",
+        "full_name": "République de Chypre",
+        "capital": "Nicosie",
+        "continent_id": 4,
+        "level_id": 2
+    },
+    {
+        "country": "Colombie",
+        "full_name": "République de Colombie",
+        "capital": "Bogota",
+        "continent_id": 2,
+        "level_id": 2
+    },
+    {
+        "country": "Comores",
+        "full_name": "Union des Comores",
+        "capital": "Moroni",
+        "continent_id": 1,
+        "level_id": 2
+    },
+    {
+        "country": "Congo",
+        "full_name": "République du Congo",
+        "capital": "Brazzaville",
+        "continent_id": 1,
+        "level_id": 2
+    },
+    {
+        "country": "République démocratique du Congo",
+        "full_name": "République démocratique du Congo",
+        "capital": "Kinshasa",
+        "continent_id": 1,
+        "level_id": 2
+    },
+    {
+        "country": "Îles Cook",
+        "full_name": "Îles Cook",
+        "capital": "Avarua",
+        "continent_id": 3,
+        "level_id": 3
+    },
+    {
+        "country": "Corée du Nord",
+        "full_name": "République populaire démocratique de Corée",
+        "capital": "Pyongyang",
+        "continent_id": 3,
+        "level_id": 1
+    },
+    {
+        "country": "Corée du Sud",
+        "full_name": "République de Corée",
+        "capital": "Séoul",
+        "continent_id": 3,
+        "level_id": 1
+    },
+    {
+        "country": "Costa Rica",
+        "full_name": "République du Costa Rica",
+        "capital": "San José",
+        "continent_id": 2,
+        "level_id": 2
+    },
+    {
+        "country": "Côte d'Ivoire",
+        "full_name": "République de Côte d'Ivoire",
+        "capital": "Yamoussoukro",
+        "continent_id": 1,
+        "level_id": 2
+    },
+    {
+        "country": "Croatie",
+        "full_name": "République de Croatie",
+        "capital": "Zagreb",
+        "continent_id": 4,
+        "level_id": 1
+    },
+    {
+        "country": "Cuba",
+        "full_name": "République de Cuba",
+        "capital": "La Havane",
+        "continent_id": 2,
+        "level_id": 1
+    },
+    {
+        "country": "Danemark",
+        "full_name": "Royaume du Danemark",
+        "capital": "Copenhague",
+        "continent_id": 4,
+        "level_id": 1
+    },
+    {
+        "country": "Djibouti",
+        "full_name": "République de Djibouti",
+        "capital": "Djibouti",
+        "continent_id": 1,
+        "level_id": 1
+    },
+    {
+        "country": "République dominicaine",
+        "full_name": "République dominicaine",
+        "capital": "Saint-Domingue",
+        "continent_id": 2,
+        "level_id": 3
+    },
+    {
+        "country": "Dominique",
+        "full_name": "Commonwealth de la Dominique",
+        "capital": "Roseau",
+        "continent_id": 2,
+        "level_id": 3
+    },
+    {
+        "country": "Égypte",
+        "full_name": "République arabe d'Égypte",
+        "capital": "Le Caire",
+        "continent_id": 1,
+        "level_id": 1
+    },
+    {
+        "country": "Émirats arabes unis",
+        "full_name": "Émirats arabes unis",
+        "capital": "Abou Dabi",
+        "continent_id": 3,
+        "level_id": 2
+    },
+    {
+        "country": "Équateur",
+        "full_name": "République d'Équateur",
+        "capital": "Quito",
+        "continent_id": 2,
+        "level_id": 2
+    },
+    {
+        "country": "Érythrée",
+        "full_name": "État d'Érythrée",
+        "capital": "Asmara",
+        "continent_id": 1,
+        "level_id": 2
+    },
+    {
+        "country": "Espagne",
+        "full_name": "Royaume d'Espagne",
+        "capital": "Madrid",
+        "continent_id": 4,
+        "level_id": 1
+    },
+    {
+        "country": "Estonie",
+        "full_name": "République d'Estonie",
+        "capital": "Tallinn",
+        "continent_id": 4,
+        "level_id": 2
+    },
+    {
+        "country": "Eswatini",
+        "full_name": "Royaume d'Eswatini",
+        "capital": "Mbabané",
+        "continent_id": 1,
+        "level_id": 3
+    },
+    {
+        "country": "États-Unis",
+        "full_name": "États-Unis d'Amérique",
+        "capital": "Washington",
+        "continent_id": 2,
+        "level_id": 1
+    },
+    {
+        "country": "Éthiopie",
+        "full_name": "République démocratique fédérale d'Éthiopie",
+        "capital": "Addis Abeba",
+        "continent_id": 1,
+        "level_id": 2
+    },
+    {
+        "country": "Fidji",
+        "full_name": "République des Fidji",
+        "capital": "Suva",
+        "continent_id": 3,
+        "level_id": 3
+    },
+    {
+        "country": "Finlande",
+        "full_name": "République de Finlande",
+        "capital": "Helsinki",
+        "continent_id": 4,
+        "level_id": 2
+    },
+    {
+        "country": "France",
+        "full_name": "République française",
+        "capital": "Paris",
+        "continent_id": 4,
+        "level_id": 1
+    },
+    {
+        "country": "Gabon",
+        "full_name": "République gabonaise",
+        "capital": "Libreville",
+        "continent_id": 1,
+        "level_id": 2
+    },
+    {
+        "country": "Gambie",
+        "full_name": "République de Gambie",
+        "capital": "Banjul",
+        "continent_id": 1,
+        "level_id": 3
+    },
+    {
+        "country": "Géorgie",
+        "full_name": "Géorgie",
+        "capital": "Tbilissi",
+        "continent_id": 3,
+        "level_id": 2
+    },
+    {
+        "country": "Ghana",
+        "full_name": "République du Ghana",
+        "capital": "Accra",
+        "continent_id": 1,
+        "level_id": 2
+    },
+    {
+        "country": "Grèce",
+        "full_name": "République hellénique",
+        "capital": "Athènes",
+        "continent_id": 4,
+        "level_id": 1
+    },
+    {
+        "country": "Grenade",
+        "full_name": "Grenade",
+        "capital": "Saint-Georges",
+        "continent_id": 2,
+        "level_id": 3
+    },
+    {
+        "country": "Guatémala",
+        "full_name": "République du Guatémala",
+        "capital": "Guatémala",
+        "continent_id": 2,
+        "level_id": 3
+    },
+    {
+        "country": "Guinée",
+        "full_name": "République de Guinée",
+        "capital": "Conakry",
+        "continent_id": 1,
+        "level_id": 2
+    },
+    {
+        "country": "Guinée équatoriale",
+        "full_name": "République de Guinée équatoriale",
+        "capital": "Malabo",
+        "continent_id": 1,
+        "level_id": 3
+    },
+    {
+        "country": "Guinée-Bissao",
+        "full_name": "République de Guinée-Bissao",
+        "capital": "Bissao",
+        "continent_id": 1,
+        "level_id": 3
+    },
+    {
+        "country": "Guyana",
+        "full_name": "République coopérative du Guyana",
+        "capital": "Georgetown",
+        "continent_id": 2,
+        "level_id": 3
+    },
+    {
+        "country": "Haïti",
+        "full_name": "République d'Haïti",
+        "capital": "Port-au-Prince",
+        "continent_id": 2,
+        "level_id": 2
+    },
+    {
+        "country": "Honduras",
+        "full_name": "République du Honduras",
+        "capital": "Tégucigalpa",
+        "continent_id": 2,
+        "level_id": 3
+    },
+    {
+        "country": "Hongrie",
+        "full_name": "Hongrie",
+        "capital": "Budapest",
+        "continent_id": 4,
+        "level_id": 1
+    },
+    {
+        "country": "Inde",
+        "full_name": "République de l'Inde",
+        "capital": "New Delhi",
+        "continent_id": 3,
+        "level_id": 1
+    },
+    {
+        "country": "Indonésie",
+        "full_name": "République d'Indonésie",
+        "capital": "Jakarta",
+        "continent_id": 3,
+        "level_id": 2
+    },
+    {
+        "country": "Irak",
+        "full_name": "République d'Irak",
+        "capital": "Bagdad",
+        "continent_id": 3,
+        "level_id": 1
+    },
+    {
+        "country": "Iran",
+        "full_name": "République islamique d'Iran",
+        "capital": "Téhéran",
+        "continent_id": 3,
+        "level_id": 1
+    },
+    {
+        "country": "Irlande",
+        "full_name": "Irlande",
+        "capital": "Dublin",
+        "continent_id": 4,
+        "level_id": 1
+    },
+    {
+        "country": "Islande",
+        "full_name": "République d'Islande",
+        "capital": "Reykjavik",
+        "continent_id": 4,
+        "level_id": 2
+    },
+    {
+        "country": "Israël",
+        "full_name": "État d'Israël",
+        "capital": "Jerusalem",
+        "continent_id": 3,
+        "level_id": 1
+    },
+    {
+        "country": "Italie",
+        "full_name": "République italienne",
+        "capital": "Rome",
+        "continent_id": 4,
+        "level_id": 1
+    },
+    {
+        "country": "Jamaïque",
+        "full_name": "Jamaïque",
+        "capital": "Kingston",
+        "continent_id": 2,
+        "level_id": 2
+    },
+    {
+        "country": "Japon",
+        "full_name": "Japon",
+        "capital": "Tokyo",
+        "continent_id": 3,
+        "level_id": 1
+    },
+    {
+        "country": "Jordanie",
+        "full_name": "Royaume hachémite de Jordanie",
+        "capital": "Amman",
+        "continent_id": 3,
+        "level_id": 2
+    },
+    {
+        "country": "Kazakhstan",
+        "full_name": "République du Kazakhstan",
+        "capital": "Nour-Soultan",
+        "continent_id": 3,
+        "level_id": 3
+    },
+    {
+        "country": "Kénya",
+        "full_name": "République du Kénya",
+        "capital": "Nairobi",
+        "continent_id": 1,
+        "level_id": 1
+    },
+    {
+        "country": "Kirghizstan",
+        "full_name": "République kirghize",
+        "capital": "Bichkek",
+        "continent_id": 3,
+        "level_id": 3
+    },
+    {
+        "country": "Kiribati",
+        "full_name": "République des Kiribati",
+        "capital": "Bairiki",
+        "continent_id": 3,
+        "level_id": 3
+    },
+    {
+        "country": "Kosovo",
+        "full_name": "République du Kosovo",
+        "capital": "Pristina",
+        "continent_id": 4,
+        "level_id": 3
+    },
+    {
+        "country": "Koweït",
+        "full_name": "État du Koweït",
+        "capital": "Koweït",
+        "continent_id": 3,
+        "level_id": 2
+    },
+    {
+        "country": "Laos",
+        "full_name": "République démocratique populaire lao",
+        "capital": "Vientiane",
+        "continent_id": 3,
+        "level_id": 2
+    },
+    {
+        "country": "Lésotho",
+        "full_name": "Royaume du Lesotho",
+        "capital": "Maséru",
+        "continent_id": 1,
+        "level_id": 3
+    },
+    {
+        "country": "Lettonie",
+        "full_name": "République de Lettonie",
+        "capital": "Riga",
+        "continent_id": 4,
+        "level_id": 2
+    },
+    {
+        "country": "Liban",
+        "full_name": "République libanaise",
+        "capital": "Beyrouth",
+        "continent_id": 3,
+        "level_id": 1
+    },
+    {
+        "country": "Libéria",
+        "full_name": "République du Libéria",
+        "capital": "Monrovia",
+        "continent_id": 1,
+        "level_id": 2
+    },
+    {
+        "country": "Libye",
+        "full_name": "État de Libye",
+        "capital": "Tripoli",
+        "continent_id": 1,
+        "level_id": 1
+    },
+    {
+        "country": "Liechtenstein",
+        "full_name": "Principauté du Liechtenstein",
+        "capital": "Vaduz",
+        "continent_id": 4,
+        "level_id": 3
+    },
+    {
+        "country": "Lituanie",
+        "full_name": "République de Lituanie",
+        "capital": "Vilnius",
+        "continent_id": 4,
+        "level_id": 2
+    },
+    {
+        "country": "Luxembourg",
+        "full_name": "Grand-Duché de Luxembourg",
+        "capital": "Luxembourg",
+        "continent_id": 4,
+        "level_id": 1
+    },
+    {
+        "country": "Macédoine du Nord",
+        "full_name": "République de Macédoine du Nord",
+        "capital": "Skopje",
+        "continent_id": 4,
+        "level_id": 3
+    },
+    {
+        "country": "Madagascar",
+        "full_name": "République de Madagascar",
+        "capital": "Antananarivo",
+        "continent_id": 1,
+        "level_id": 2
+    },
+    {
+        "country": "Malaisie",
+        "full_name": "Malaisie",
+        "capital": "Kuala Lumpur",
+        "continent_id": 3,
+        "level_id": 2
+    },
+    {
+        "country": "Malawi",
+        "full_name": "République du Malawi",
+        "capital": "Lilongwé",
+        "continent_id": 1,
+        "level_id": 3
+    },
+    {
+        "country": "Maldives",
+        "full_name": "République des Maldives",
+        "capital": "Malé",
+        "continent_id": 3,
+        "level_id": 3
+    },
+    {
+        "country": "Mali",
+        "full_name": "République du Mali",
+        "capital": "Bamako",
+        "continent_id": 1,
+        "level_id": 1
+    },
+    {
+        "country": "Malte",
+        "full_name": "République de Malte",
+        "capital": "La Valette",
+        "continent_id": 4,
+        "level_id": 2
+    },
+    {
+        "country": "Maroc",
+        "full_name": "Royaume du Maroc",
+        "capital": "Rabat",
+        "continent_id": 1,
+        "level_id": 1
+    },
+    {
+        "country": "Îles Marshall",
+        "full_name": "République des Îles Marshall",
+        "capital": "Delap-Uliga-Darrit",
+        "continent_id": 3,
+        "level_id": 3
+    },
+    {
+        "country": "Maurice",
+        "full_name": "République de Maurice",
+        "capital": "Port-Louis",
+        "continent_id": 1,
+        "level_id": 3
+    },
+    {
+        "country": "Mauritanie",
+        "full_name": "République islamique de Mauritanie",
+        "capital": "Nouakchott",
+        "continent_id": 1,
+        "level_id": 2
+    },
+    {
+        "country": "Mexique",
+        "full_name": "États-Unis du Mexique",
+        "capital": "Mexico",
+        "continent_id": 2,
+        "level_id": 1
+    },
+    {
+        "country": "Micronésie",
+        "full_name": "États fédérés de Micronésie",
+        "capital": "Palikir",
+        "continent_id": 3,
+        "level_id": 3
+    },
+    {
+        "country": "Moldavie",
+        "full_name": "République de Moldavie",
+        "capital": "Chisinau",
+        "continent_id": 4,
+        "level_id": 3
+    },
+    {
+        "country": "Monaco",
+        "full_name": "Principauté de Monaco",
+        "capital": "Monaco",
+        "continent_id": 4,
+        "level_id": 1
+    },
+    {
+        "country": "Mongolie",
+        "full_name": "Mongolie",
+        "capital": "Oulan-Bator",
+        "continent_id": 3,
+        "level_id": 2
+    },
+    {
+        "country": "Monténégro",
+        "full_name": "Monténégro",
+        "capital": "Podgorica",
+        "continent_id": 4,
+        "level_id": 3
+    },
+    {
+        "country": "Mozambique",
+        "full_name": "République du Mozambique",
+        "capital": "Maputo",
+        "continent_id": 1,
+        "level_id": 3
+    },
+    {
+        "country": "Namibie",
+        "full_name": "République de Namibie",
+        "capital": "Windhoek",
+        "continent_id": 1,
+        "level_id": 2
+    },
+    {
+        "country": "Nauru",
+        "full_name": "République de Nauru",
+        "capital": "Yaren",
+        "continent_id": 3,
+        "level_id": 3
+    },
+    {
+        "country": "Népal",
+        "full_name": "République démocratique fédérale du Népal",
+        "capital": "Katmandou",
+        "continent_id": 3,
+        "level_id": 1
+    },
+    {
+        "country": "Nicaragua",
+        "full_name": "République du Nicaragua",
+        "capital": "Managua",
+        "continent_id": 2,
+        "level_id": 2
+    },
+    {
+        "country": "Niger",
+        "full_name": "République du Niger",
+        "capital": "Niamey",
+        "continent_id": 1,
+        "level_id": 2
+    },
+    {
+        "country": "Nigéria",
+        "full_name": "République fédérale du Nigéria",
+        "capital": "Abuja",
+        "continent_id": 1,
+        "level_id": 3
+    },
+    {
+        "country": "Niue",
+        "full_name": "Niue",
+        "capital": "Alofi",
+        "continent_id": 3,
+        "level_id": 3
+    },
+    {
+        "country": "Norvège",
+        "full_name": "Royaume de Norvège",
+        "capital": "Oslo",
+        "continent_id": 4,
+        "level_id": 1
+    },
+    {
+        "country": "Nouvelle-Zélande",
+        "full_name": "Nouvelle-Zélande",
+        "capital": "Wellington",
+        "continent_id": 3,
+        "level_id": 2
+    },
+    {
+        "country": "Oman",
+        "full_name": "Sultanat d'Oman",
+        "capital": "Mascate",
+        "continent_id": 3,
+        "level_id": 3
+    },
+    {
+        "country": "Ouganda",
+        "full_name": "République d'Ouganda",
+        "capital": "Kampala",
+        "continent_id": 1,
+        "level_id": 3
+    },
+    {
+        "country": "Ouzbékistan",
+        "full_name": "République d'Ouzbékistan",
+        "capital": "Tachkent",
+        "continent_id": 3,
+        "level_id": 2
+    },
+    {
+        "country": "Pakistan",
+        "full_name": "République islamique du Pakistan",
+        "capital": "Islamabad",
+        "continent_id": 3,
+        "level_id": 2
+    },
+    {
+        "country": "Palaos",
+        "full_name": "République des Palaos",
+        "capital": "Melekeok",
+        "continent_id": 3,
+        "level_id": 3
+    },
+    {
+        "country": "Panama",
+        "full_name": "République du Panama",
+        "capital": "Panama",
+        "continent_id": 2,
+        "level_id": 1
+    },
+    {
+        "country": "Papouasie-Nouvelle-Guinée",
+        "full_name": "État indépendant de Papouasie-Nouvelle-Guinée",
+        "capital": "Port Moresby",
+        "continent_id": 3,
+        "level_id": 3
+    },
+    {
+        "country": "Paraguay",
+        "full_name": "République du Paraguay",
+        "capital": "Asuncion",
+        "continent_id": 2,
+        "level_id": 2
+    },
+    {
+        "country": "Pays-Bas",
+        "full_name": "Royaume des Pays-Bas",
+        "capital": "Amsterdam",
+        "continent_id": 4,
+        "level_id": 1
+    },
+    {
+        "country": "Pérou",
+        "full_name": "République du Pérou",
+        "capital": "Lima",
+        "continent_id": 2,
+        "level_id": 2
+    },
+    {
+        "country": "Philippines",
+        "full_name": "République des Philippines",
+        "capital": "Manille",
+        "continent_id": 3,
+        "level_id": 2
+    },
+    {
+        "country": "Pologne",
+        "full_name": "République de Pologne",
+        "capital": "Varsovie",
+        "continent_id": 4,
+        "level_id": 1
+    },
+    {
+        "country": "Portugal",
+        "full_name": "République portugaise",
+        "capital": "Lisbonne",
+        "continent_id": 4,
+        "level_id": 1
+    },
+    {
+        "country": "Qatar",
+        "full_name": "État du Qatar",
+        "capital": "Doha",
+        "continent_id": 3,
+        "level_id": 2
+    },
+    {
+        "country": "Roumanie",
+        "full_name": "Roumanie",
+        "capital": "Bucarest",
+        "continent_id": 4,
+        "level_id": 2
+    },
+    {
+        "country": "Royaume-Uni",
+        "full_name": "Royaume-Uni de Grande-Bretagne et d'Irlande du Nord",
+        "capital": "Londres",
+        "continent_id": 4,
+        "level_id": 1
+    },
+    {
+        "country": "Russie",
+        "full_name": "Fédération de Russie",
+        "capital": "Moscou",
+        "continent_id": 3,
+        "level_id": 1
+    },
+    {
+        "country": "Rwanda",
+        "full_name": "République du Rwanda",
+        "capital": "Kigali",
+        "continent_id": 1,
+        "level_id": 2
+    },
+    {
+        "country": "Saint-Christophe-et-Niévès",
+        "full_name": "Fédération de Saint-Christophe-et-Niévès",
+        "capital": "Basseterre",
+        "continent_id": 2,
+        "level_id": 3
+    },
+    {
+        "country": "Sainte-Lucie",
+        "full_name": "Sainte-Lucie",
+        "capital": "Castries",
+        "continent_id": 2,
+        "level_id": 3
+    },
+    {
+        "country": "Saint-Marin",
+        "full_name": "République de Saint-Marin",
+        "capital": "Saint-Marin",
+        "continent_id": 4,
+        "level_id": 1
+    },
+    {
+        "country": "Saint-Vincent-et-les-Grenadines",
+        "full_name": "Saint-Vincent-et-les-Grenadines",
+        "capital": "Kingstown",
+        "continent_id": 2,
+        "level_id": 3
+    },
+    {
+        "country": "Salomon",
+        "full_name": "Îles Salomon",
+        "capital": "Honiara",
+        "continent_id": 3,
+        "level_id": 3
+    },
+    {
+        "country": "Salvador",
+        "full_name": "République du Salvador",
+        "capital": "San Salvador",
+        "continent_id": 2,
+        "level_id": 2
+    },
+    {
+        "country": "Samoa",
+        "full_name": "État indépendant des Samoa",
+        "capital": "Apia",
+        "continent_id": 3,
+        "level_id": 3
+    },
+    {
+        "country": "Sao Tomé-et-Principe",
+        "full_name": "République démocratique de Sao Tomé-et-Principe",
+        "capital": "Sao Tomé",
+        "continent_id": 1,
+        "level_id": 3
+    },
+    {
+        "country": "Sénégal",
+        "full_name": "République du Sénégal",
+        "capital": "Dakar",
+        "continent_id": 1,
+        "level_id": 1
+    },
+    {
+        "country": "Serbie",
+        "full_name": "République de Serbie",
+        "capital": "Belgrade",
+        "continent_id": 4,
+        "level_id": 2
+    },
+    {
+        "country": "Seychelles",
+        "full_name": "République des Seychelles",
+        "capital": "Victoria",
+        "continent_id": 3,
+        "level_id": 3
+    },
+    {
+        "country": "Sierra Leone",
+        "full_name": "République de Sierra Leone",
+        "capital": "Freetown",
+        "continent_id": 1,
+        "level_id": 3
+    },
+    {
+        "country": "Singapour",
+        "full_name": "République de Singapour",
+        "capital": "Singapour",
+        "continent_id": 3,
+        "level_id": 1
+    },
+    {
+        "country": "Slovaquie",
+        "full_name": "République slovaque",
+        "capital": "Bratislava",
+        "continent_id": 4,
+        "level_id": 2
+    },
+    {
+        "country": "Slovénie",
+        "full_name": "République de Slovénie",
+        "capital": "Ljubljana",
+        "continent_id": 4,
+        "level_id": 3
+    },
+    {
+        "country": "Somalie",
+        "full_name": "République fédérale de Somalie",
+        "capital": "Mogadiscio",
+        "continent_id": 1,
+        "level_id": 2
+    },
+    {
+        "country": "Soudan",
+        "full_name": "République du Soudan",
+        "capital": "Khartoum",
+        "continent_id": 1,
+        "level_id": 2
+    },
+    {
+        "country": "Soudan du Sud",
+        "full_name": "République du Soudan du Sud",
+        "capital": "Djouba",
+        "continent_id": 1,
+        "level_id": 3
+    },
+    {
+        "country": "Sri Lanka",
+        "full_name": "République démocratique socialiste du Sri Lanka",
+        "capital": "Sri Jayewardenepura-Kotte",
+        "continent_id": 3,
+        "level_id": 3
+    },
+    {
+        "country": "Suède",
+        "full_name": "Royaume de Suède",
+        "capital": "Stockholm",
+        "continent_id": 4,
+        "level_id": 1
+    },
+    {
+        "country": "Suisse",
+        "full_name": "Confédération suisse",
+        "capital": "Berne",
+        "continent_id": 4,
+        "level_id": 2
+    },
+    {
+        "country": "Suriname",
+        "full_name": "République du Suriname",
+        "capital": "Paramaribo",
+        "continent_id": 2,
+        "level_id": 3
+    },
+    {
+        "country": "Syrie",
+        "full_name": "République arabe syrienne",
+        "capital": "Damas",
+        "continent_id": 3,
+        "level_id": 1
+    },
+    {
+        "country": "Tadjikistan",
+        "full_name": "République du Tadjikistan",
+        "capital": "Douchanbé",
+        "continent_id": 3,
+        "level_id": 3
+    },
+    {
+        "country": "Tanzanie",
+        "full_name": "République unie de Tanzanie",
+        "capital": "Dodoma",
+        "continent_id": 1,
+        "level_id": 3
+    },
+    {
+        "country": "Tchad",
+        "full_name": "République du Tchad",
+        "capital": "Ndjamena",
+        "continent_id": 1,
+        "level_id": 2
+    },
+    {
+        "country": "Tchéquie",
+        "full_name": "République tchèque",
+        "capital": "Prague",
+        "continent_id": 4,
+        "level_id": 1
+    },
+    {
+        "country": "Thaïlande",
+        "full_name": "Royaume de Thaïlande",
+        "capital": "Bangkok",
+        "continent_id": 3,
+        "level_id": 1
+    },
+    {
+        "country": "Timor oriental",
+        "full_name": "République démocratique du Timor oriental",
+        "capital": "Dili",
+        "continent_id": 3,
+        "level_id": 3
+    },
+    {
+        "country": "Togo",
+        "full_name": "République togolaise",
+        "capital": "Lomé",
+        "continent_id": 1,
+        "level_id": 3
+    },
+    {
+        "country": "Tonga",
+        "full_name": "Royaume des Tonga",
+        "capital": "Nuku'alofa",
+        "continent_id": 3,
+        "level_id": 3
+    },
+    {
+        "country": "Trinité-et-Tobago",
+        "full_name": "République de Trinité-et-Tobago",
+        "capital": "Port-d'Espagne",
+        "continent_id": 2,
+        "level_id": 3
+    },
+    {
+        "country": "Tunisie",
+        "full_name": "République tunisienne",
+        "capital": "Tunis",
+        "continent_id": 1,
+        "level_id": 1
+    },
+    {
+        "country": "Turkménistan",
+        "full_name": "Turkménistan",
+        "capital": "Achgabat",
+        "continent_id": 3,
+        "level_id": 3
+    },
+    {
+        "country": "Turquie",
+        "full_name": "République de Turquie",
+        "capital": "Ankara",
+        "continent_id": 3,
+        "level_id": 1
+    },
+    {
+        "country": "Tuvalu",
+        "full_name": "Tuvalu",
+        "capital": "Vaiaku",
+        "continent_id": 3,
+        "level_id": 3
+    },
+    {
+        "country": "Ukraine",
+        "full_name": "Ukraine",
+        "capital": "Kiev",
+        "continent_id": 4,
+        "level_id": 1
+    },
+    {
+        "country": "Uruguay",
+        "full_name": "République orientale de l'Uruguay",
+        "capital": "Montévidéo",
+        "continent_id": 4,
+        "level_id": 1
+    },
+    {
+        "country": "Vanuatu",
+        "full_name": "République du Vanuatu",
+        "capital": "Port-Vila",
+        "continent_id": 3,
+        "level_id": 3
+    },
+    {
+        "country": "Vatican",
+        "full_name": "Vatican (Saint-Siège)",
+        "capital": "Vatican",
+        "continent_id": 4,
+        "level_id": 1
+    },
+    {
+        "country": "Vénézuéla",
+        "full_name": "République bolivarienne du Vénézuéla",
+        "capital": "Caracas",
+        "continent_id": 2,
+        "level_id": 2
+    },
+    {
+        "country": "Vietnam",
+        "full_name": "République socialiste du Vietnam",
+        "capital": "Hanoï",
+        "continent_id": 3,
+        "level_id": 1
+    },
+    {
+        "country": "Yémen",
+        "full_name": "République du Yémen",
+        "capital": "Sanaa",
+        "continent_id": 3,
+        "level_id": 2
+    },
+    {
+        "country": "Zambie",
+        "full_name": "République de Zambie",
+        "capital": "Lusaka",
+        "continent_id": 1,
+        "level_id": 3
+    },
+    {
+        "country": "Zimbabwé",
+        "full_name": "République du Zimbabwé",
+        "capital": "Hararé",
+        "continent_id": 1,
+        "level_id": 3
+    }
+]
