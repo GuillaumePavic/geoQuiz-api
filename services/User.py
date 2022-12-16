@@ -1,5 +1,24 @@
 from dbConnect import connection
 
+createUserSchema = {
+    'type': 'object',
+    'properties': {
+        'email': {'type': 'string'},
+        'password': {'type': 'string'},
+        'username': {'type': 'string'}
+    },
+    'required': ['email', 'password', 'username']
+}
+
+loginSchema = {
+    'type': 'object',
+    'properties': {
+        'email': {'type': 'string'},
+        'password': {'type': 'string'},
+    },
+    'required': ['email', 'password']
+}
+
 class User:
     @staticmethod
     def createUser(email, password, username):
@@ -27,6 +46,7 @@ class User:
                 user = {
                     "id": results[0],
                     "email": results[1],
-                    "password": results[2]
+                    "password": results[2],
+                    "isAdmin": results[4]
                 }
                 return user

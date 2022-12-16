@@ -1,21 +1,20 @@
+import os
 from os.path import join, dirname
 from dotenv import load_dotenv
 from flask import Flask, jsonify, request
 from flask_expects_json import expects_json
 from jsonschema import ValidationError
-
 from werkzeug.security import generate_password_hash, check_password_hash
-
 import jwt
 
-from Quiz import Quiz
-from User import User
+from services.Quiz import Quiz
+from services.User import User, createUserSchema, loginSchema
 
 dotenv_path = join(dirname(__file__), '.env')
 load_dotenv(dotenv_path)
 
-
 app = Flask(__name__)
+
 
 # --- Quiz ---#
 @app.get("/quiz")
@@ -28,22 +27,12 @@ def createQuiz():
         if len(results) == 0:
             return jsonify({"message": "Error 404, No Quiz Found !"})
             
-        return jsonify({"results": results})
+        return {"results": results}
     except:
         return {"message": "Error 500"}
 
 
 # --- User ---#
-createUserSchema = {
-    'type': 'object',
-    'properties': {
-        'email': {'type': 'string'},
-        'password': {'type': 'string'},
-        'username': {'type': 'string'}
-    },
-    'required': ['email', 'password', 'username']
-}
-
 @app.post("/user")
 @expects_json(createUserSchema)
 def createUser():
@@ -63,19 +52,10 @@ def createUser():
         return {"message": "Error 500"}
 
 
-loginSchema = {
-    'type': 'object',
-    'properties': {
-        'email': {'type': 'string'},
-        'password': {'type': 'string'},
-    },
-    'required': ['email', 'password']
-}
-
 @app.post("/user/login")
 @expects_json(loginSchema)
 def login():
-    # try:
+    try:
         data = request.get_json()
 
         email = data['email']
@@ -89,12 +69,29 @@ def login():
         if correctPassword is False:
             return {"message": "Error 400. Wrong email or password"}
         
-        encoded = jwt.encode({"some": user["id"]}, "secret", algorithm="HS256")
+        encoded = jwt.encode({"id": user["id"], "isAdmin": user["isAdmin"]}, os.environ.get("JWT_SECRET"), algorithm="HS256")
         
         return {"message": encoded}
-    # except:
-    #     return {"message": "Error 500"}
+    except:
+        return {"message": "Error 500"}
 
+
+# Add country in DB
+@app.post('/admin/addcountry')
+def addCountry():
+    try:
+        jwtToken = request.headers['auth']
+        if jwtToken is None:
+            return {"message": "No token provided"}
+        
+        decoded = jwt.decode(jwtToken, os.environ.get("JWT_SECRET"), algorithms="HS256")
+        if decoded["isAdmin"] is False:
+            return {"message": "Not authorized"}
+        
+        # Add country
+        return {"message": "Authorized"}
+    except:
+        return {"message": "Error 500"}
 
 
 #--- Error Handling---#
@@ -105,10 +102,6 @@ def bad_request(error):
         return jsonify({'error': original_error.message})
 
     return error
-
-@app.errorhandler(500)
-def bad_request(error):
-    return error.description
 
 @app.errorhandler(404) 
 def invalid_route(e): 
